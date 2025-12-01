@@ -1,0 +1,12 @@
+[
+  {
+    "question": "What is the output of `2 + '2'` in JS?",
+    "options": ["4", "'22'", "Error", "'4'"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which hook is used in React for state?",
+    "options": ["useEffect", "useState", "useContext", "useRef"],
+    "correctIndex": 1
+  }
+]

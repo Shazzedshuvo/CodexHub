@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "title": "JavaScript Basics",
+    "description": "Learn the fundamentals of JavaScript.",
+    "image": "https://via.placeholder.com/150x150/7C3AED/FFFFFF?text=JS"
+  },
+  {
+    "id": 2,
+    "title": "React for Beginners",
+    "description": "Start building React applications.",
+    "image": "https://via.placeholder.com/150x150/4F46E5/FFFFFF?text=React"
+  },
+  {
+    "id": 3,
+    "title": "Next.js Mastery",
+    "description": "Learn Next.js 13 App Router.",
+    "image": "https://via.placeholder.com/150x150/7C3AED/FFFFFF?text=Next"
+  },
+  {
+    "id": 4,
+    "title": "TypeScript Essentials",
+    "description": "Understand TypeScript for modern JS apps.",
+    "image": "https://via.placeholder.com/150x150/4F46E5/FFFFFF?text=TS"
+  },
+  {
+    "id": 5,
+    "title": "Node.js Fundamentals",
+    "description": "Backend development with Node.js.",
+    "image": "https://via.placeholder.com/150x150/7C3AED/FFFFFF?text=Node"
+  },
+  {
+    "id": 6,
+    "title": "Express.js Crash Course",
+    "description": "Build REST APIs with Express.js.",
+    "image": "https://via.placeholder.com/150x150/4F46E5/FFFFFF?text=Express"
+  },
+  {
+    "id": 7,
+    "title": "CSS Flexbox & Grid",
+    "description": "Master modern layout techniques.",
+    "image": "https://via.placeholder.com/150x150/7C3AED/FFFFFF?text=CSS"
+  },
+  {
+    "id": 8,
+    "title": "Responsive Web Design",
+    "description": "Build mobile-first websites.",
+    "image": "https://via.placeholder.com/150x150/4F46E5/FFFFFF?text=RWD"
+  },
+  {
+    "id": 9,
+    "title": "HTML5 Advanced",
+    "description": "Learn semantic HTML & modern features.",
+    "image": "https://via.placeholder.com/150x150/7C3AED/FFFFFF?text=HTML"
+  },
+  {
+    "id": 10,
+    "title": "MongoDB Basics",
+    "description": "Database essentials with MongoDB.",
+    "image": "https://via.placeholder.com/150x150/4F46E5/FFFFFF?text=MongoDB"
+  },
+  {
+    "id": 11,
+    "title": "GraphQL Introduction",
+    "description": "Query APIs efficiently with GraphQL.",
+    "image": "https://via.placeholder.com/150x150/7C3AED/FFFFFF?text=GraphQL"
+  },
+  {
+    "id": 12,
+    "title": "Redux Essentials",
+    "description": "State management for React apps.",
+    "image": "https://via.placeholder.com/150x150/4F46E5/FFFFFF?text=Redux"
+  },
+  {
+    "id": 13,
+    "title": "Tailwind CSS Guide",
+    "description": "Rapid UI development with Tailwind CSS.",
+    "image": "https://via.placeholder.com/150x150/7C3AED/FFFFFF?text=Tailwind"
+  },
+  {
+    "id": 14,
+    "title": "Git & GitHub Basics",
+    "description": "Version control and collaboration skills.",
+    "image": "https://via.placeholder.com/150x150/4F46E5/FFFFFF?text=Git"
+  },
+  {
+    "id": 15,
+    "title": "Docker for Beginners",
+    "description": "Containerize your applications.",
+    "image": "https://via.placeholder.com/150x150/7C3AED/FFFFFF?text=Docker"
+  },
+  {
+    "id": 16,
+    "title": "CI/CD with GitHub Actions",
+    "description": "Automate workflows & deployments.",
+    "image": "https://via.placeholder.com/150x150/4F46E5/FFFFFF?text=CI/CD"
+  }
+]

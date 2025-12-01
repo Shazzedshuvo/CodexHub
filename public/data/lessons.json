@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "courseId": "1",
+    "title": "Variables & Data Types",
+    "content": "<h2>JavaScript Variables</h2><p>Learn about var, let, and const...</p>"
+  },
+  {
+    "id": "2",
+    "courseId": "1",
+    "title": "Functions",
+    "content": "<h2>Functions</h2><p>How to create and call functions...</p>"
+  },
+  {
+    "id": "3",
+    "courseId": "2",
+    "title": "React Components",
+    "content": "<h2>Components</h2><p>Learn about functional and class components...</p>"
+  },
+  {
+    "id": "4",
+    "courseId": "2",
+    "title": "State and Props",
+    "content": "<h2>State and Props</h2><p>Understanding state and props in React...</p>"
+  },
+    {
+        "id": "5",
+        "courseId": "3",
+        "title": "HTML Basics",
+        "content": "<h2>HTML Structure</h2><p>Learn about tags, elements, and attributes...</p>"
+    }
+]
